@@ -1,4 +1,5 @@
 #!/usr/bin/perl
+##Copyrigh (C) 2011 by linchao
 #Program:
 #   Perl变量练习
 #2017/01/21     林超      First release

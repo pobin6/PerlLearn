@@ -1,4 +1,5 @@
 #!/usr/bin/perl
+##Copyrigh (C) 2011 by linchao
 #Program:
 #       练习Perl的运算符
 #2017/01/22     林超      First release
